@@ -498,7 +498,7 @@ const AboutUs = () => {
       <div className="team-grid">
         <TeamMember name="Billy Butcher" title="Founder & CEO" imageUrl={billyImage} />
         <TeamMember name="Jon Snow" title="Lead Project Manager" imageUrl={jonImage} />
-        <TeamMember name="Ned" title="Community Outreach" imageUrl={robbImage} />
+        <TeamMember name="robb" title="Community Outreach" imageUrl={robbImage} />
       </div>
     </div>
   );
