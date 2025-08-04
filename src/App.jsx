@@ -593,7 +593,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content container">
-        <p>&copy; 2025 Hope Foundation. All rights reserved.</p>
+        <p>&copy; 2024 Hope Foundation. All rights reserved.</p>
         <p className="footer-links">
           <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
         </p>
